@@ -80,7 +80,7 @@ var Index = function (_Component) {
                         lineNumber: 6
                     }
                 },
-                'Test'
+                'Tes'
             );
         }
     }, {
